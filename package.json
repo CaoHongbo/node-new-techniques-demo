@@ -1,0 +1,25 @@
+{
+  "name": "new-techniques-demo",
+  "version": "1.0.0",
+  "description": "^^",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoHongbo/node-new-techniques-demo.git"
+  },
+  "author": "caohongbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaoHongbo/node-new-techniques-demo/issues"
+  },
+  "homepage": "https://github.com/CaoHongbo/node-new-techniques-demo#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-bestest-router": "^1.0.2",
+    "mongodb": "^4.7.0"
+  }
+}
